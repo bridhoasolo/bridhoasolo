@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Okello</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Backend and Frontend Dev**
 
